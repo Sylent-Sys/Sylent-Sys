@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/color/35/000000/react-native.png" alt="reactjs"/>
   <img src="https://img.icons8.com/color/35/000000/nodejs.png" alt="nodejs"/>
   <img src="https://img.icons8.com/color/35/000000/bootstrap.png" alt="bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" alt="tailwindcss"/>
   <img src="https://img.icons8.com/color/35/000000/html-5--v2.png" alt="html5"/>
   <img src="https://img.icons8.com/color/35/000000/css3.png" alt="css3"/>
   <img src="https://img.icons8.com/color/35/000000/git.png" alt="git"/>
