@@ -1,7 +1,4 @@
-<h3>Hai, senang bertemu denganmu!</h3>
-
-<p>Nama saya Renaldi Apriyanto Kadang. Saya hanya pemuda biasa yang haus akan pengetahuan teknologi. Saya masih cukup baru untuk semua ini jadi tolong jangan memberi banyak tekanan :)</p>
-<p>Saya akan mencoba untuk menjadi lebih baik jadi jangan khawatir tentang itu. Saat ini, saya belajar Ilmu Komputer di SMKS Mutiara Ilmu Makassar dan fokus utama saya adalah pengembangan web.</p>
+<h3>Hey, welcome to my github!</h3>
 
 <br>
 
@@ -40,6 +37,7 @@
   <img src="https://img.icons8.com/color/35/000000/git.png" alt="git"/>
   <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png" alt="java"/>
   <img src="https://img.icons8.com/color/35/000000/python--v2.png" alt="python"/>
+  <img src="https://img.icons8.com/dusk/35/000000/php-logo.png" alt="PHP"/>
 </p>
 <br />
 
