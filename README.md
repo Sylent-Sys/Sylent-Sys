@@ -6,7 +6,7 @@
 
 <ul>
   <li>Lebih condong ke backend</li>
-  <li>Furaha Systems' Web Developer</li>
+  <li>Furaha Systems Web Developer</li>
   <li>Kaum rebahan</li>
   <li>Nerd game</li>
 </ul>
@@ -16,7 +16,7 @@
 <p><strong>Anda bisa menghubungi saya lewat :</strong></p>
 
 <ul>
-  <li><a href="mailto:renaldiapriyanto210404@gmail.com">Email</a></li>
+  <li><a href="mailto:renaldiapriyanto419@gmail.com">Email</a></li>
   <li><a href="https://www.linkedin.com/in/renaldi-kadang-314314206/">LinkedIn</a></li>
 </ul>
 
