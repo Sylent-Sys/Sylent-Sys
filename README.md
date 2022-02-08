@@ -20,24 +20,8 @@
 
 <br>
 
-<p><strong>Berikut adalah teknologi dan alat yang telah saya pelajari dan/atau saya masih belajar dan memiliki kesempatan untuk menggunakannya :</strong></p>
-
-<br>
-
-<p>
-  <img src="https://img.icons8.com/color/35/000000/javascript--v2.png" alt="javascript"/>
-  <img src="https://img.icons8.com/color/35/000000/react-native.png" alt="reactjs"/>
-  <img src="https://img.icons8.com/color/35/000000/nodejs.png" alt="nodejs"/>
-  <img src="https://img.icons8.com/color/35/000000/bootstrap.png" alt="bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" alt="tailwindcss"/>
-  <img src="https://img.icons8.com/color/35/000000/html-5--v2.png" alt="html5"/>
-  <img src="https://img.icons8.com/color/35/000000/css3.png" alt="css3"/>
-  <img src="https://img.icons8.com/color/35/000000/git.png" alt="git"/>
-  <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png" alt="java"/>
-  <img src="https://img.icons8.com/color/35/000000/python--v2.png" alt="python"/>
-  <img src="https://img.icons8.com/dusk/35/000000/php-logo.png" alt="PHP"/>
-</p>
-<br />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p>
 <a href="https://github.com/sylent-sys">
