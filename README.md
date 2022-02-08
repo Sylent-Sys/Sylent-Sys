@@ -95,10 +95,3 @@ Blade                    1 repo              ██░░░░░░░░░�
 
  Last Updated on 08/02/2022 05:10:00 UTC
 <!--END_SECTION:waka-->
-
-<p>
-<a href="https://github.com/sylent-sys">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sylent-sys&count_private=true&theme=github_dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylent-sys&theme=github_dark&layout=compact" />
-</a>
-</p>
