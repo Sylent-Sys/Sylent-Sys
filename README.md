@@ -5,10 +5,8 @@
 <p><strong>Beberapa fakta mengenai saya :</strong></p>
 
 <ul>
-  <li>Lebih condong ke backend</li>
-  <li>Furaha Systems Web Developer</li>
-  <li>Kaum rebahan</li>
-  <li>Nerd game</li>
+  <li>Furaha Systems Backend Web Developer</li>
+  <li>Lumayan Handal Dalam Mengoperasikan Sistem Operasi Linux</li>
 </ul>
 
 <br>
