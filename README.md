@@ -21,8 +21,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2054%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-74-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-270%20Thousand%20baris%20kode-blue)
@@ -53,9 +51,9 @@
 ```text
 Senin        25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
 Selasa       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-Rabu         51 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
+Rabu         50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
 Kamis        87 commits     ██████░░░░░░░░░░░░░░░░░░░   26.52% 
-Jumat        78 commits     ██████░░░░░░░░░░░░░░░░░░░   23.78% 
+Jumat        79 commits     ██████░░░░░░░░░░░░░░░░░░░   24.09% 
 Sabtu        21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
 Minggu       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06%
 
@@ -106,5 +104,5 @@ Blade                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sylent-Sys/Sylent-Sys/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/02/2022 15:53:20 UTC
+ Last Updated on 11/02/2022 16:03:34 UTC
 <!--END_SECTION:waka-->
