@@ -21,15 +21,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-291%20Thousand%20baris%20kode-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 🏆 1,902 Kontribusi pada 2022
+> 🏆 1,901 Kontribusi pada 2022
  > 
 > 📦 6.3 kB Digunakan di GitHub Storage 
  > 
@@ -55,9 +53,9 @@ Senin        32 commits     █░░░░░░░░░░░░░░░░�
 Selasa       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
 Rabu         54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
 Kamis        84 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
-Jumat        43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+Jumat        42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
 Sabtu        76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
-Minggu       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.16%
+Minggu       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.39%
 
 ```
 
@@ -101,5 +99,5 @@ Blade                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sylent-Sys/Sylent-Sys/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/03/2022 15:02:58 UTC
+ Last Updated on 13/03/2022 16:01:52 UTC
 <!--END_SECTION:waka-->
