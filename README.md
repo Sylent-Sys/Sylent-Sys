@@ -21,6 +21,8 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-308%20Thousand%20baris%20kode-blue)
@@ -51,10 +53,10 @@
 ```text
 Senin        27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
 Selasa       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-Rabu         104 commits    █████░░░░░░░░░░░░░░░░░░░░   20.12% 
+Rabu         103 commits    █████░░░░░░░░░░░░░░░░░░░░   19.92% 
 Kamis        148 commits    ███████░░░░░░░░░░░░░░░░░░   28.63% 
 Jumat        106 commits    █████░░░░░░░░░░░░░░░░░░░░   20.5% 
-Sabtu        35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
+Sabtu        36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
 Minggu       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.54%
 
 ```
@@ -103,5 +105,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sylent-Sys/Sylent-Sys/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 16:14:05 UTC
+ Last Updated on 22/04/2022 16:54:35 UTC
 <!--END_SECTION:waka-->
