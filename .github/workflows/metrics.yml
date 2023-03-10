@@ -11,7 +11,14 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.SECRET_TOKEN }}
-
+          # Plugin Lines
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
+          # Language Activity
+          plugin_languages: yes
+          plugin_languages_indepth: yes
           # Options
           user: Sylent-Sys
           template: classic
