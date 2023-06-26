@@ -297,15 +297,15 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,17.818181818181806)">
+                            <g class="tick" opacity="1" transform="translate(0,17.83311113804386)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">15k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,58.87878787878789)">
+                            <g class="tick" opacity="1" transform="translate(0,58.88874075869592)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,99.93939393939394)">
+                            <g class="tick" opacity="1" transform="translate(0,99.94437037934794)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">5.0k</text>
                             </g>
@@ -313,21 +313,21 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,182.06060606060606)">
+                            <g class="tick" opacity="1" transform="translate(0,182.05562962065204)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−5.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,223.12121212121212)">
+                            <g class="tick" opacity="1" transform="translate(0,223.11125924130408)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,264.1818181818182)">
+                            <g class="tick" opacity="1" transform="translate(0,264.1668888619561)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−15k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L48.805,140.5L58.61,140.5L352.756,140.5L362.561,140.5L372.366,140.5L382.171,140.5L401.78,140.5L441,140.5L441,5L401.78,140.319L382.171,126.991L372.366,90.915L362.561,132.329L352.756,108.366L58.61,124.289L48.805,135.294L39,110.723Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L48.805,140.5L58.61,140.5L352.756,140.5L362.561,140.5L372.366,140.5L382.171,140.5L401.78,140.5L441,140.5L441,140.59L401.78,140.508L382.171,146.708L372.366,140.755L362.561,142.758L352.756,145.206L58.61,140.919L48.805,141.592L39,148.942Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L48.805,140.5L58.61,140.5L352.756,140.5L362.561,140.5L372.366,140.5L382.171,140.5L401.78,140.5L421.39,140.5L441,140.5L441,5L421.39,85.272L401.78,140.319L382.171,126.993L372.366,90.921L362.561,132.33L352.756,108.37L58.61,124.291L48.805,135.294L39,110.726Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L48.805,140.5L58.61,140.5L352.756,140.5L362.561,140.5L372.366,140.5L382.171,140.5L401.78,140.5L421.39,140.5L441,140.5L441,140.599L421.39,142.586L401.78,140.508L382.171,146.708L372.366,140.755L362.561,142.758L352.756,145.205L58.61,140.919L48.805,141.592L39,148.941Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -409,7 +409,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2023, 02:07:07 (timezone asia/jakarta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jun 2023, 02:32:44 (timezone asia/jakarta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
