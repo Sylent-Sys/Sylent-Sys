@@ -16,8 +16,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sylent-sys&show_icons=true&locale=en&layout=compact" alt="sylent-sys" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylent-sys&" alt="sylent-sys" /></p>
-<center>
-  ![Metrics](/github-metrics.svg)
-  <br/>
-  ![:sylent-sys](https://count.getloli.com/get/@:sylent-sys?theme=rule34)
-</center>
+![Metrics](/github-metrics.svg)
+<br/>
+![:sylent-sys](https://count.getloli.com/get/@:sylent-sys?theme=rule34)
