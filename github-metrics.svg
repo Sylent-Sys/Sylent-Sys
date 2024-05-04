@@ -33,17 +33,17 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -217,7 +217,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">Sylent-Sys/kasir</span>
+                            <span class="diff-handle">Sylent-Sys/tiktok_karusel</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -231,11 +231,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +36.5k</span>
-                                <span class="deleted"> -3.42k</span>
+                                <span class="added"> +7.92k</span>
+                                <span class="deleted"> -5.70k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -342,8 +342,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−15k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L45.7,140.5L159.6,140.5L173,140.5L179.7,140.5L193.1,140.5L199.8,140.5L293.6,140.5L300.3,140.5L307,140.5L320.4,140.5L327.1,140.5L333.8,140.5L360.6,140.5L374,140.5L387.4,140.5L400.8,140.5L407.5,140.5L414.2,140.5L434.3,140.5L441,140.5L441,5L434.3,140.457L414.2,138.864L407.5,112.595L400.8,127.408L387.4,130.656L374,113.58L360.6,68.805L333.8,130.853L327.1,43.941L320.4,140.474L307,140.483L300.3,98.458L293.6,132.112L199.8,138.067L193.1,117.221L179.7,136.696L173,104.678L159.6,32.64L45.7,130.536L39,140.483Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L45.7,140.5L159.6,140.5L173,140.5L179.7,140.5L193.1,140.5L199.8,140.5L293.6,140.5L300.3,140.5L307,140.5L320.4,140.5L327.1,140.5L333.8,140.5L360.6,140.5L374,140.5L387.4,140.5L400.8,140.5L407.5,140.5L414.2,140.5L434.3,140.5L441,140.5L441,141.134L434.3,140.517L414.2,140.911L407.5,140.526L400.8,144.21L387.4,140.62L374,140.526L360.6,170.941L333.8,140.629L327.1,140.517L320.4,140.526L307,140.517L300.3,140.509L293.6,140.517L199.8,140.928L193.1,141.151L179.7,140.586L173,140.517L159.6,140.509L45.7,150.567L39,140.517Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L99.3,140.5L112.7,140.5L159.6,140.5L173,140.5L179.7,140.5L193.1,140.5L199.8,140.5L240,140.5L246.7,140.5L293.6,140.5L300.3,140.5L307,140.5L320.4,140.5L327.1,140.5L333.8,140.5L360.6,140.5L374,140.5L387.4,140.5L394.1,140.5L400.8,140.5L407.5,140.5L414.2,140.5L434.3,140.5L441,140.5L441,5L434.3,140.457L414.2,138.864L407.5,111.087L400.8,125.618L394.1,84.038L387.4,122.602L374,113.58L360.6,68.805L333.8,130.853L327.1,43.941L320.4,140.466L307,140.483L300.3,98.458L293.6,132.112L246.7,112.269L240,136.088L199.8,138.067L193.1,117.221L179.7,136.696L173,104.678L159.6,32.64L112.7,140.483L99.3,82.873L39,140.483Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L99.3,140.5L112.7,140.5L159.6,140.5L173,140.5L179.7,140.5L193.1,140.5L199.8,140.5L240,140.5L246.7,140.5L293.6,140.5L300.3,140.5L307,140.5L320.4,140.5L327.1,140.5L333.8,140.5L360.6,140.5L374,140.5L387.4,140.5L394.1,140.5L400.8,140.5L407.5,140.5L414.2,140.5L434.3,140.5L441,140.5L441,141.134L434.3,140.517L414.2,140.911L407.5,141.031L400.8,146.455L394.1,186.518L387.4,140.714L374,140.526L360.6,170.941L333.8,140.629L327.1,140.517L320.4,174.172L307,140.517L300.3,140.509L293.6,140.517L246.7,143.362L240,140.723L199.8,140.928L193.1,141.151L179.7,140.586L173,140.517L159.6,140.509L112.7,140.509L99.3,142.676L39,140.517Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -425,7 +425,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2024, 06:32:51 (timezone asia/jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 May 2024, 07:36:07 (timezone asia/jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
