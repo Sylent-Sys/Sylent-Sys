@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renaldi Apriyanto Kadang</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Divisi IT Binus**
-
 - 📫 How to reach me **renaldiapriyanto419@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
